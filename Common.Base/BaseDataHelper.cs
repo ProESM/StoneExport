@@ -14,7 +14,7 @@ namespace Common.Base
         
     }
 
-    public class SystemObjects
+    public static class SystemObjects
     {
         /// <summary>
         /// Корень (родитель) всех объектов

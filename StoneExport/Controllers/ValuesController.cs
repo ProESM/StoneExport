@@ -35,8 +35,7 @@ namespace StoneExport.Controllers
         {
             var treeDtos = _treeService.GetTrees();
 
-            var treeDto = treeDtos.FirstOrDefault();
-            treeDto.Name = "Тест №234";
+            var treeDto = treeDtos.FirstOrDefault();            
 
             _treeService.UpdateTree(treeDto);
 
