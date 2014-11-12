@@ -1,0 +1,17 @@
+D:\Projects\StoneExport\Common.Base\bin\Debug\Common.Base.dll
+D:\Projects\StoneExport\Common.Base\bin\Debug\Common.Base.pdb
+D:\Projects\StoneExport\Common.Base\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\StoneExport\Common.Base\bin\Debug\Ninject.dll
+D:\Projects\StoneExport\Common.Base\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\StoneExport\Common.Base\bin\Debug\Ninject.xml
+D:\Projects\StoneExport\Common.Base\obj\Debug\Common.Base.dll
+D:\Projects\StoneExport\Common.Base\obj\Debug\Common.Base.pdb
+D:\git\StoneExport\Common.Base\bin\Debug\Common.Base.dll
+D:\git\StoneExport\Common.Base\bin\Debug\Common.Base.pdb
+D:\git\StoneExport\Common.Base\bin\Debug\Newtonsoft.Json.dll
+D:\git\StoneExport\Common.Base\bin\Debug\Ninject.dll
+D:\git\StoneExport\Common.Base\bin\Debug\Newtonsoft.Json.xml
+D:\git\StoneExport\Common.Base\bin\Debug\Ninject.xml
+D:\git\StoneExport\Common.Base\obj\Debug\Common.Base.csprojResolveAssemblyReference.cache
+D:\git\StoneExport\Common.Base\obj\Debug\Common.Base.dll
+D:\git\StoneExport\Common.Base\obj\Debug\Common.Base.pdb
